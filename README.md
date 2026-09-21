@@ -1,10 +1,6 @@
 </div> <div align="center">
 
 
-
- ![](https://komarev.com/ghpvc/?username=melodic&color=FA8775&style=plastic&label=𑄝꠹)
-
-
 <div align="center"> 
  <img width="200" height="200" alt=”baby tiger plushie" src="https://files.catbox.moe/7i9r2s.png" />
 
