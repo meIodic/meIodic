@@ -2,7 +2,7 @@
 
 
 
- ![](https://komarev.com/ghpvc/?username=melodic&color=FA8775&style=plastic&label=(˵◝ ⩊  ◜˵マ)
+ ![](https://komarev.com/ghpvc/?username=melodic&color=FA8775&style=plastic&label=(˵◝ ⩊  ◜˵マ))
 
 
 <div align="center"> 
