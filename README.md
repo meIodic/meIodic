@@ -10,4 +10,4 @@
 </div> <div align="center">
  
  
- rentry is wip   [‎ ‎新book ‎](https://melodic.atabook.org/?page=1)
+ rentrywip   [‎ ‎新book ‎](https://melodic.atabook.org/?page=1)
