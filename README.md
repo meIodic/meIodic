@@ -6,7 +6,7 @@
 
 
 <div align="center"> 
- <img width="200" height="200" alt=”baby tiger plushie" src="https://files.catbox.moe/km9huy.png" />
+ <img width="200" height="200" alt=”baby tiger plushie" src="https://files.catbox.moe/7i9r2s.png" />
 
 
 
